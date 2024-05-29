@@ -14,6 +14,6 @@ git add -A
 git commit -m 'deploy'
 
 
-git push -f https://github.com/dromara/fast-request.git master:gh-pages
+git push -f https://github.com/codingpaidaxing/codingpaidaxing.github.io.git master:gh-pages
 
 cd -
