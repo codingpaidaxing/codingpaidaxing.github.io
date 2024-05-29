@@ -50,7 +50,7 @@ export const enNavbar = navbar([
 
 export const zhNavbar = navbar([
   {
-    text: "快速上手",
+    text: "对线面试官系列",
     link: "/guide/getstarted/start",
     icon: "start1",
   },

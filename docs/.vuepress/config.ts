@@ -8,7 +8,7 @@ import theme from "./theme.js";
 const __dirname = getDirname(import.meta.url);
 
 export default defineUserConfig({
-  title: "Fast Request",
+  title: "码上遇见你",
   description: "Intellij Restful Fast Request",
   shouldPrefetch: false,
   head: [

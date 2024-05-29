@@ -1,7 +1,7 @@
 ---
 icon: restfulFastRequest
 home: true
-title: Api Buddy
+title: 派大星
 heroFullScreen: true
 heroImageDark: /img/fastRequest.svg
 bgImage: /img/bg4.svg
@@ -13,9 +13,9 @@ actions:
     type: primary
 
 features:
-  - title: 基于原生
+  - title: 职业八股
     icon: origin
-    details: 集成 IDEA 工具，在线离线均可使用，不再需要额外的诸如 Postman 等 API 调试工具
+    details: 八股文职业选手必备指南。
     link: /guide/introduce.html
 
   - title: 效率至上

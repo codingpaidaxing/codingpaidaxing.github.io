@@ -1,7 +1,7 @@
 ---
 home: true
 icon: restfulFastRequest
-title: Api Buddy
+title: Pai daxing
 heroImageDark: /img/fastRequest.svg
 bgImage: /img/bg4.svg
 heroText: Fast Request

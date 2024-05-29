@@ -92,11 +92,19 @@ export const zhSidebar = sidebar({
   "/guide/": [
     "introduce",
     {
-      text: "快速上手",
+      text: "对线面试官系列",
       icon: "leibie",
       prefix: "getstarted/",
       collapsible: true,
       children: [
+        "1",
+        "2",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
         "start",
         "projectEnv",
         "dataMapping",

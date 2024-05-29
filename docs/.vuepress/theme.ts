@@ -22,7 +22,7 @@ export default hopeTheme(
     editLink: false,
     contributors: false,
 
-    darkmode: "enable",
+    darkmode: "switch",
 
     iconAssets: "//at.alicdn.com/t/c/font_2601581_j5ywre6kshm.css",
 
